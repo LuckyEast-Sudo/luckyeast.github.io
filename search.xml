@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/06/07/17/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>赛尔达地图</title>
+    <url>/2023/06/08/27/</url>
+    <content><![CDATA[<p>————————-空中地图————————-</p>
+<p><img src="/images/pasted-7.png" alt="upload successful"></p>
+<p><img src="/images/pasted-8.png" alt="upload successful"></p>
+<p>————————-海拉鲁大陆————————-</p>
+<p><img src="/images/pasted-9.png" alt="upload successful"></p>
+<p><img src="/images/pasted-10.png" alt="upload successful"></p>
+<p>————————-地下区域————————-</p>
+<p><img src="/images/pasted-11.png" alt="upload successful"></p>
+<p><img src="/images/pasted-12.png" alt="upload successful"></p>
 ]]></content>
   </entry>
   <entry>
-    <title>first</title>
+    <title>关于塞尔达传说</title>
     <url>/2023/06/07/01/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>塞尔达传说是任天堂所推出的知名游戏系列。</p>
+<p>2017年3月3日，系列作《塞尔达传说：旷野之息》登陆任天堂旗下的Wii U和Switch平台。 本作打破了系列作品自《塞尔达传说 时之笛》以来形成的制作框架，主打开放世界，回归系列初代的自由探索的设计理念，在Metacritic网站收录的全球媒体平均分中获得97分。</p>
+<p><img src="/images/pasted-5.png" alt="upload successful"></p>
+<p>2023年5月12日，系列最新作《塞尔达传说：王国之泪》正式发售。</p>
+<p><img src="/images/pasted-4.png" alt="upload successful"></p>
+]]></content>
   </entry>
 </search>
